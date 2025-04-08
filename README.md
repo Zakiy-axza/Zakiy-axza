@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>AXZA UNIT | Zero-Phantom Intelligence</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>AXZA UNIT</h1>
+            <p>Zero-Phantom Protocol Intelligence</p>
+        </header>
+        <main>
+            <section>
+                <h2>Classified Operations Portal</h2>
+                <p>Welcome, Zakiy. This is your secure command interface.</p>
+            </section>
+        </main>
+        <footer>
+            <p>Secured by ACIE | Axel Intelligence Division</p>
+        </footer>
+    </div>
+</body>
+</html>
