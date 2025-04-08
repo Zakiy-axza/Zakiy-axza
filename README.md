@@ -39,3 +39,30 @@ Here are some ideas to get you started:
     </div>
 </body>
 </html>
+body {
+  background-color: #0b0f1a;
+  color: #e0e0e0;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #00ffcc;
+}
+
+a {
+  color: #5ad1ff;
+  text-decoration: none;
+}
+
+.container {
+  padding: 40px;
+}
+
+.header {
+  background-color: #1c1f2a;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 2px solid #00ffcc;
+}
